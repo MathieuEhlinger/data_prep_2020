@@ -1,0 +1,4 @@
+./.profile
+cd ./test_env/clean_project/once_again
+source activate tpot_up
+python 

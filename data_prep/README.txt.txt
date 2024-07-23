@@ -1,0 +1,1 @@
+Part of the project designed to preprocess the subject informations into datasets ready for processing with different machine learning libraries in order to output a valid ML predictor, and afterwards test those.
